@@ -29,6 +29,7 @@
 namespace VuforiaEAGLViewUtils
 {
     // Print a 4x4 matrix
+    // Print a 4x4 matrix
     void printMatrix(const float* matrix);
     
     // Print GL error information
